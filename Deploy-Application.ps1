@@ -64,13 +64,13 @@ Try {
 	##*===============================================
 	## Variables: Application
 	[string]$appVendor = 'Adobe'
-	[string]$appName = 'Photoshop'
-	[string]$appVersion = 'CC 2020'
+	[string]$appName = 'After Effects'
+	[string]$appVersion = '2020'
 	[string]$appArch = 'x64'
 	[string]$appLang = 'EN'
 	[string]$appRevision = '01'
 	[string]$appScriptVersion = '3.7.0.1'
-	[string]$appScriptDate = '01/20/2020'
+	[string]$appScriptDate = '01/23/2020'
 	[string]$appScriptAuthor = 'Steve Patterson, Truong Nguyen'
 	##*===============================================
 	## Variables: Install Titles (Only set here to override defaults set by the toolkit)
